@@ -4,6 +4,7 @@ ipympl  # enables interactive matplotlib plots with `%matplotlib widget`
 jupyterlab==2.*
 lmfit
 matplotlib
+nbgitpuller
 ophyd
 pandas
 scipy

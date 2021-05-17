@@ -1,7 +1,7 @@
 bluesky
-datbroker
+databroker
 ipympl  # enables interactive matplotlib plots with `%matplotlib widget`
-jupyterlab==3.*
+jupyterlab==2.*
 lmfit
 matplotlib
 ophyd
